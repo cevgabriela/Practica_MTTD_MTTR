@@ -39,7 +39,7 @@ La carpeta `venv/` corresponde al entorno virtual local y está excluida del rep
 
 **Paso 1. Clonar el repositorio**
 
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/cevgabriela/Practica_MTTD_MTTR.git
 
 **Paso 2. Ingresar al proyecto**
 
